@@ -1,0 +1,2 @@
+function wpcom_custom_jumplist_reader(){window.external.msSiteModeCreateJumplist("Recent posts");window.external.msSiteModeAddJumpListItem("The Journey Begins","https://jangotravels.wordpress.com/2020/05/18/the-journey-begins/","https://jangotravels.files.wordpress.com/2020/05/cropped-20191202_015020.jpg?w=16");}
+try{if(window.external && 'msIsSiteMode' in window.external){if (window.external.msIsSiteMode()){wpcom_custom_jumplist_reader();wpcom_sitemode_comment_notify();}}}catch(e){}
